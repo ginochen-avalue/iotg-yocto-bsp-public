@@ -119,7 +119,7 @@ If you need to modify the recipes or configurations, make your customization in 
 ```
 
 ### Features supported
-To view the full list of supported features, see [Intel_Atom_E3900_PV_Release_Note.pdf](https://github.com/01org/iotg-yocto-bsp-public/blob/e3900/master/Intel_Atom_E3900_PV_Release_Note.pdf)
+To view the full list of supported features, see [Intel_Atom_E3900_MR1_Release_Note.pdf](https://github.com/01org/iotg-yocto-bsp-public/blob/59c3b527d46325b67a0d76ea450015c67cf41eab/Intel_Atom_E3900_MR1_Release_Note.pdf)
 
 ### Known Issues
-To view full list of known issues related to Linux driver, see [Intel_Atom_E3900_PV_Release_Note.pdf](https://github.com/01org/iotg-yocto-bsp-public/blob/e3900/master/Intel_Atom_E3900_PV_Release_Note.pdf)
+To view full list of known issues related to Linux driver, see [Intel_Atom_E3900_MR1_Release_Note.pdf](https://github.com/01org/iotg-yocto-bsp-public/blob/59c3b527d46325b67a0d76ea450015c67cf41eab/Intel_Atom_E3900_MR1_Release_Note.pdf)
